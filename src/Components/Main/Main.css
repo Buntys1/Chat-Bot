@@ -235,8 +235,9 @@
 
 @media (max-width: 480px) {
     .search-box {
-        flex-direction: column;
+        flex-direction: row;
         align-items: stretch;
+        margin-top: 40px;
     }
 
     .search-box input {
